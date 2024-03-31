@@ -1,4 +1,3 @@
-//Dorian Rzasa
 #pragma once
 #include "Z3.h"
 #include <iostream>
