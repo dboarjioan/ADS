@@ -1,5 +1,3 @@
-//Dorian Rzasa grupa 3
-
 import java.util.Scanner;
 
 public class Source {
