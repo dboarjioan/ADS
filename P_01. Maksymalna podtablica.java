@@ -1,5 +1,3 @@
-//Dorian Rzasa grupa 3
-
 /*
 przykladowe wejscie:
 
