@@ -1,4 +1,3 @@
-//Dorian Rzasa
 #include "Polynomial.h"
 #include <iostream>
 #include <sstream>
