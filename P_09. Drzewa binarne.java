@@ -1,4 +1,3 @@
-//Dorian Rzasa- grupa 3
 import java.util.Scanner;
 
 class Node{  //klasa reprezentujaca wezel w drzewie
