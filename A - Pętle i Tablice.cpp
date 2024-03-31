@@ -1,4 +1,3 @@
-// Dorian Rzasa
 #include <iostream>
 
 using namespace std;
