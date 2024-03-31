@@ -1,4 +1,3 @@
-//Dorian Rzasa
 #pragma once
 #include <iostream>
 #include <sstream>
