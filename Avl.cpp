@@ -1,4 +1,3 @@
-//Dorian Rzasa
 #include <iostream>
 
 class Node {
